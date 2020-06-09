@@ -43,3 +43,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "active_model_serializers", "~> 0.10.7"
 # dotenv for security
 gem "dotenv-rails", "~> 2.7"
+# auth
+gem "jwt", "~> 2.2"
