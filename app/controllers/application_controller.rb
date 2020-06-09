@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::API
-    class ApplicationController < ActionController::API
         def make_token(user)
+            
             JWT.encode({ user_id: user.id }, hmac_secret, 'HS256')
         end
         
@@ -21,6 +21,6 @@ class ApplicationController < ActionController::API
           def token_there_at_all?
             !!token_user_id
           end
-    end
+  
     
 end
