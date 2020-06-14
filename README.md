@@ -2,11 +2,11 @@ Volunteer app backend for hackathon
 
 Ruby on Rails API implementing with PostgreSQL
 
-git clone 
+1. git clone 
 
-bundle install
+2. bundle install
 
-rails s
+3. rails s
 
-open http://localhost:3000/users to see the json data. 
+4. open http://localhost:3000/users to see the json data. 
 
