@@ -1,5 +1,6 @@
 Volunteer app backend for hackathon
 
+Ruby on Rails API implementing with PostgreSQL
 
 git clone 
 
