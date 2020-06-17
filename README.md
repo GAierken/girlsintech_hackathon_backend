@@ -10,3 +10,7 @@ Ruby on Rails API implementing with PostgreSQL
 
 4. open http://localhost:3000/users to see the json data. 
 
+
+
+Heroku Live: https://blooming-wave-77750.herokuapp.com/users
+             https://blooming-wave-77750.herokuapp.com/appointments
