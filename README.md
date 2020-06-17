@@ -12,5 +12,6 @@ Ruby on Rails API implementing with PostgreSQL
 
 
 
-Heroku Live: https://blooming-wave-77750.herokuapp.com/users
-             https://blooming-wave-77750.herokuapp.com/appointments
+Heroku Live: 
+Users: https://blooming-wave-77750.herokuapp.com/users
+Appointments: https://blooming-wave-77750.herokuapp.com/appointments
