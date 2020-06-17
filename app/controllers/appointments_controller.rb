@@ -9,9 +9,9 @@ class AppointmentsController < ApplicationController
      end 
 
      def create
-
+         
          appointment = Appointment.create(appointment_params)
-       
+
          if appointment.valid?
 
            render json: appointment

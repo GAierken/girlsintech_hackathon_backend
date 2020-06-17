@@ -18,7 +18,7 @@ class UsersController < ApplicationController
         user=User.create(user_params)
           
         if user.valid?
-            user.save!
+            # user.save!
             render json: {token: make_token(user), user_id: user.id}
         else 
             render json:{errors: user.errors.full_messages}, status: :unprocessable_entity
