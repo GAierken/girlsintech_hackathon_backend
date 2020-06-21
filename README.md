@@ -15,4 +15,5 @@ The backend RESTful API service is built with Ruby on Rails powered by PostgreSQ
 
 ### Heroku Live: 
 Users: https://blooming-wave-77750.herokuapp.com/users
-/nAppointments: https://blooming-wave-77750.herokuapp.com/appointments
+
+Appointments: https://blooming-wave-77750.herokuapp.com/appointments
