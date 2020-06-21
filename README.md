@@ -18,5 +18,5 @@ Users: https://blooming-wave-77750.herokuapp.com/users
 
 Appointments: https://blooming-wave-77750.herokuapp.com/appointments
 
-### Fontend GitHub: 
+### Frontend GitHub: 
 https://github.com/emilyychenn/girlsintechhackathon
